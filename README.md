@@ -20,6 +20,8 @@ Assignment management system is the desktop application using .Net framework and
 1. Download and extract zip file.
 2. Using SSMS, create a database 'AssignmentDB' and import database file 'AssignmentDB.bak'.
 3. Run AssignmentDB_Project.sln with Visual Studio.
+4. Change data source of the connection string in dbconnection.cs file.
+Note: You can get your datasource in the server explorer window in Visual Studio.
 5. Start the application.
 
 ---

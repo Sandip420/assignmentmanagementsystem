@@ -4,7 +4,7 @@ Assignment management system is the desktop application using .Net framework and
 
 ---
 
-<img src="login.png" width="100%">
+![](login.png)
 
 ---
 

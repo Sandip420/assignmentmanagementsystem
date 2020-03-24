@@ -1,0 +1,36 @@
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\bin\Debug\AssignmentDB_Project.exe.config
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\bin\Debug\AssignmentDB_Project.exe
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\bin\Debug\AssignmentDB_Project.pdb
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.MDI.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Properties.Resources.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.csproj.GenerateResource.cache
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.csproj.CoreCompileInputs.cache
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.exe
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.pdb
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Faculty.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Teacher.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.LoginPage.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Student.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Assignment.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Subject.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.TeacherDispatch.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Status.resources
+C:\Users\a\source\repos\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.csprojAssemblyReference.cache
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\bin\Debug\AssignmentDB_Project.exe.config
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\bin\Debug\AssignmentDB_Project.exe
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\bin\Debug\AssignmentDB_Project.pdb
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.csprojAssemblyReference.cache
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Assignment.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Faculty.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.LoginPage.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.MDI.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Properties.Resources.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Status.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Student.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Subject.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.Teacher.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.TeacherDispatch.resources
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.csproj.GenerateResource.cache
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.csproj.CoreCompileInputs.cache
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.exe
+C:\Users\Kreton\Downloads\First Sem App Project\AssignmentDB_Project\AssignmentDB_Project\obj\Debug\AssignmentDB_Project.pdb

@@ -26,7 +26,7 @@ Note: You can get your datasource in the server explorer window in Visual Studio
 
 ---
 
-## Features
+## Features of the application
 
 1. Login form- The form from where users can login to their account by providing correct username and password.
 2. Dashboard- The module from where user can enter inside the modules. There are options like menu, edit, help, support and logout.

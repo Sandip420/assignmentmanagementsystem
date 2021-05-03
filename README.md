@@ -8,6 +8,10 @@ Assignment management system is the desktop application using .Net framework and
 
 ---
 
+https://user-images.githubusercontent.com/62270918/116872696-0eb6bb00-ac36-11eb-9aad-f26a1107ca36.mp4
+
+---
+
 ## Applications required
 
 - You must install Microsoft Visual Studio as IDE.
